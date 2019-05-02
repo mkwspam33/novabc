@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
+<?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="task" label="Xyza" max_length="40" name="sn_abcdef_xyza" type="collection">
         <element attributes="edge_encryption_enabled=true" label="AAABBBccc" max_length="40" name="aaabbbccc" type="string"/>
     </element>
