@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_db_object">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
         <access>public</access>
         <actions_access>false</actions_access>
         <alter_access>false</alter_access>
+        <caller_access/>
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
         <create_access>false</create_access>
@@ -17,17 +17,18 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">18c1e28447032200a03a19fbac9a7126</super_class>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">349354a5500133007e7383719b9960cd</super_class>
+        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-11-28 20:33:35</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>de11b1b247132200a03a19fbac9a716f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Xyza</sys_name>
         <sys_package display_value="abcdef" source="sn_abcdef">a67e499247032200a03a19fbac9a7133</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="abcdef">a67e499247032200a03a19fbac9a7133</sys_scope>
         <sys_update_name>sys_db_object_de11b1b247132200a03a19fbac9a716f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
